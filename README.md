@@ -1,6 +1,6 @@
 # Práctica 1
 
-Repositorio para la práctica 1 realizado por Álvaro Galisteo (@SrGMC) y Alejandro Massotti (@alex19malop)
+Repositorio para la práctica 1 realizado por Álvaro Galisteo ([@SrGMC](https://github.com/SrGMC)) y Alejandro Massotti ([@alex19malop](https://github.com/alex19malop))
 
 ## Modelos
 
